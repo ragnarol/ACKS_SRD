@@ -1,4 +1,4 @@
-Chapter 5: Spells
+﻿Chapter 5: Spells
 Spells and Spellcasters
 Spells are powerful invocations that use esoteric hand gestures combined with eldritch spoken words to bring about otherwise impossible effects. Like characters, spells have levels that measure how powerful they are. For instance, some spells are 1st level spells, and some are 2nd level, and so on. Lower level characters can learn only lower level spells, while higher level characters can access more powerful, higher level spells. 
 Spells may be cast only by characters of special classes, collectively called spellcasters or casters. There are two types of spellcasters: divine spellcasters and arcane spellcasters. The divine spellcasters described in this rule book are clerics, bladedancers, and dwarven craftpriests, while the arcane spellcasters are mages, elven nightblades, and elven spellswords. Some rules will apply only to one type of spellcaster, while others apply to both types. If a rule does not specify a particular type of spellcaster, it applies to both divine and arcane spellcasters. 
@@ -294,9 +294,11 @@ Cloudkill	Range:	special
 Arcane 5	Duration:	 6 turns
 This spell creates a cloud of poison gas 30’ in diameter that spreads out from the caster’s fingertips. The cloud moves at a rate of 20' per round away from the caster. The poison gas is heavier than air and will sink down holes or slide downhill; it is broken up by trees or thick vegetation. Each round they are within the cloud, creatures of fewer than 5 Hit Dice or levels must save versus Poison or die, taking 1 point of damage even if the save is successful. Creatures having 5 or more Hit Dice or levels take 1 point of damage each round they are within the cloud. The cloud persists for the entire duration even if the caster ceases to concentrate upon it.
 
-Command Word	Range:	10’
-Divine 1	Duration:	1 round
-When a cleric casts this spell, he may give the target a one word command, which it obeys to the best of its ability. The single word must make sense as a single command, such as approach, drop, fall, flee, halt, surrender, sleep, etc. Although a target could be instructed to “die,” this will only make the target faint for a single round. Note that the caster must be able to speak the language of the target. Any intended target with more than 5 HD or an INT of over 12 is entitled to a saving throw versus Spells. This spell is ineffective against undead.
+
+Palabra de Mando   Alcance 10' 
+Divino 1           Duración: 1 ronda
+
+Cuando el clérigo lanza este conjuro, puede darle al objetivo una orden de una sola palabra, la cual obedecerá como mejor pueda. Esta única palabra debe tener sentido como orden, como por ejemplo acercate, sueltalo, tírate, quieto, ríndete, duerme, etc. Aunque se puede ordenar al blanco que "muera", esto tan solo conseguirá que el objetivo se desmaye durante una sola ronda. Ten en cuenta que el lanzador debe poder hablar el idioma de su objetivo. Cualquier blanco con más de 5DG o una inteligencia por encima de 12 tiene permitida una tirada de salvación contra Conjuros. Este conjuro no surge efecto sobre los nomuertos
 
 Commune	Range:	self
 Divine 5	Duration:	3 turns
@@ -377,9 +379,10 @@ Divine 3	Duration:	instantaneous
 This spell cures all diseases that the subject is suffering from, including magical diseases as lycanthropy and mummy rot. Cure disease will also kill green slime and other parasites afflicting the target creature. Certain special diseases may not be countered by this spell or may be countered only by a caster of a certain level or higher. This spell does not prevent reinfection after a new exposure to the same disease.
 The reverse of this spell, cause disease, infects the target with a horrific wasting plague unless a save versus Spells is made. While afflicted, the target suffers -2 on attack throws, cannot be magically healed, and will naturally heal at half the normal rate. The disease will be fatal in 2d12 days unless a cure disease spell is cast on the victim.
 
-Cure Light Wounds*	Range:	touch
-Divine 1	Duration:	instantaneous
-With this spell the caster heals 1d6+1 points of damage by laying his hand upon the injured creature. This spell may also be used to cure paralysis, but does not then cure any points of damage. The spell will never increase a creature’s hit points beyond the normal amount. 
+Curar Heridas Ligeras*   Alcance: toque
+Divino 1                 Duración: instantáneo
+
+Con este conjuro el lanzador cura 1d6+1 puntos de daño imponiendo sus manos a una criatura herida. Este conjuro puede emplearse para curar la parálisis, pero en tal caso no curará ningún punto de daño. Este conjuro nunca puede incrementar los puntos de golpe de la criatura por encima de si cantidad normal.
 The reverse form of this spell, cause light wounds, causes 1d6+1 damage to the creature affected by it. A successful attack throw is required in this case.
 Undead are affected by this spell and its reverse in opposite fashion; they are injured by cure light wounds and healed by cause light wounds.
 
@@ -395,18 +398,22 @@ Delay Poison	Range:	touch
 Divine 2	Duration:	1 turn per level
 The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed during the spell’s duration does not affect the subject until the spell’s duration has expired. Unless cured, saving throws and damage as appropriate are rolled once the spell ends. Delay poison does not cure any damage that poison may have already done. However, if the spell is cast on a subject who has recently died from poison, within 1 turn per caster level, life is restored until the spell duration ends. A revived character will have 1 hp for the duration of the spell, but if the spell ends prior to the poison being cured, the subject dies again.
 
-Detect Evil*	Range:	60'
-Divine 1, Arcane 2	Duration:	6 turns
-This spell allows the caster to detect evil; specifically, the caster can detect creatures with evil intentions, magic items with evil enchantments, undead, sinkholes of evil, and summoned creatures of Chaotic alignment. Note that normal characters, even if Chaotic, are not detected by this spell unless they have actively evil intentions against the caster. Poisons, physical traps, and natural animals are neither good nor evil, so they are not detected by this spell. The caster sees the evil creatures or objects with a definite red glow around them, but the glow cannot be seen by anyone else.
-Reversed, this spell becomes detect good, which works just as described above with respect to detecting good enchantments, summoned creatures of Lawful alignment, and good intentions. 
+Detectar el Mal*     Alcance: 60'
+Divino 1, Arcano 2   Duracion: 6 turnos
+
+Este conjuro permite al lanzador detectar el mal; especialmente, el lanzador puede detectar criaturas con intenciones malignas, objetos mágicos con encantamientos malignos, nomuertos, sumideros del mal, y criaturas invocadas de alineamiento Caótico. Ten en cuenta que los personajes normales, incluso si son Caóticos, no son detectados por este conjuro a menos que tengas activamente intenciones malignas en contra del lanzador. Los venenos, trampas físicas, y animales salvajes no son ni buenos ni malos, por lo que no son detectados por este conjuro. El lanzador ve a las criaturas u objetos malvados con un brillo rojizo bien definido a su alrededor, pero el brillo no puede ser visto por nadie más.
+
+El inverso de este conjuro sería Detectar Bien, que funciona de la misma forma en lo que respecta a detectar encantamientos benignos, criaturas invocadas de alineamiento Legal y buenas intenciones.
+
 
 Detect Invisible	Range:	60’
 Arcane 2	Duration:	6 turns
 By means of this spell the caster is able to see invisible characters, creatures or objects within the given range, seeing them as translucent shapes.
 
-Detect Magic	Range:	60'
-Divine 1, Arcane 1	Duration:	2 turns
-The caster of this spell is able to detect enchanted or enspelled objects or creatures within the given range by sight, seeing them surrounded by a pale glowing yellow light. Only the caster sees the glow. Invisible creatures or objects are not detected by this spell, but the emanations of the invisibility magic will be seen as an amorphous glowing fog, possibly allowing the caster (only) to attack the invisible creature at an attack penalty of only -2.
+Detectar Mágia         Alcance: 60'
+Divino 1, Arcano 1     Duración: 2 turnosch
+
+El lanzador es capaz de detectar criaturas u objetos encantados o bajo los efectos de un conjuro dentro del alcance con tan solo verlos, viendolos rodeados de un palido brillo amarillento. Tan solo el personaje ve el brillo. Las criaturas u objetos invisibles no son detectados por este conjuro, pero las emanaciones de una mágia de invisibilidad se verán como un una niebal amorfa brillante, permitiendo al lanzador (y solo a él) atacar a la criatura invisible con una penalización al ataque de tan solo -2
 
 Dimension Door	Range:	10'
 Arcane 4	Duration:	instantaneous
@@ -448,9 +455,10 @@ Feign Death	Range:	touch
 Divine 3	Duration:	6 rounds plus 1 round per level
 The caster of this spell causes a state of death-like paralytic arrest in himself or another willing creature. This physical state completely mimics death to any observer, even if the creature is physically examined. To affect another creature, physical contact must be made and the target must have equal or fewer levels or HD to the caster. No saving throw is permitted. Any being under the effect of this spell is conscious and can hear and smell, but cannot move and is completely numb. Thus, if the body is damaged or otherwise molested, there will be no discomfort to the spell recipient and no physical reaction. Damage inflicted to a creature in this state is reduced by 50%, and poison, paralysis, or energy drain attacks are ineffective. However, any poison that retains its effective duration after the spell ends will affect the creature once the spell ends or is negated. The caster may negate the spell before the duration ends, but 1 round must pass for the body to resume normal life functions.
 
-Fellowship	Range:	self
-Divine 1	Duration:	1 turn per level
-This spell causes the divine spellcaster to increase the feelings of camaraderie in those he interacts with. All creatures that socially interact with the spellcaster must make a saving throw versus Spells. All those failing the saving throw are very impressed by the caster and greatly desire to be his friend and assist him in any way they can, treating him as if his Charisma was 2d4 points higher than actual. Those who do not fail the saving throw are uneasy in the caster’s presence and tend to find him irritating; they treat him as if his Charisma was 1d4 points lower. This spell has no effect on creatures of animal intelligence or lower. 
+Hermandad       Alcance: personal
+Divino 1        Duración: 1 turno por nivel
+
+Este conjuro hace que el lanzador realce los sentimientos de camaradería con aquellos con los que interactue. Todas las criaturas que interactuen socialmente con el lanzador deben hacer una tirada de salvación contra Conjuros. Los que la fallen la tirada de salvación estarán muy impresionados del lanzador y desaran con fuerza ser sus amigos y ayudarle en todo lo que puedan, tratandole como si su Carísma fuese 2d4 puntos más que su puntuación real. Aquellos que no fallen la tirada de salvación se sentirán incomodos en su presencia y tenderán a encontrarlo irritante. Trátalo como si su carisma fuese 1d4 puntos inferior. Este conjuro no surge efecto con criaturas de inteligencia animal o menor.﻿
 
 Find Traps	Range:	30'
 Divine 2	Duration:	3 turns
@@ -753,10 +761,11 @@ Silence 15' Radius	Range:	180'
 Divine 2	Duration:	12 turns
 Upon the casting of this spell, complete silence prevails within a 15' radius around the target. All sound is stopped: Conversation is impossible, spells cannot be cast, and no noise whatsoever issues from, enters, or passes through the area. The spell can be cast on a point in space, making the effect stationary, or it may be cast on a mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. An unwilling creature receives a save versus Spells to negate the spell. If an item in another creature’s possession is targeted, that creature also receives a save versus Spells to negate. This spell provides a defense against sonic or language-based attacks or spells.
 
-Sleep	Range:	240'
-Arcane 1	Duration:	4d4 turns
-With a sleep spell, the caster may attempt to put creatures into a magical slumber. All creatures to be affected must be visible and within range of the spell. The caster may choose to target 1 specific creature of 4+1 HD or less, or a group of up to 2d8 HD of creatures of 4 HD or less. Calculate monsters with less than 1 HD as having 1 HD, and monsters with a bonus to HD as having the flat amount. For example, a 3+2 HD monster would be calculated as having 3 HD. Hit Die that are not sufficient to affect a creature are wasted. Creatures with the fewest HD are affected first. Creatures with more than 4+1 HD cannot be affected at all.
-Sleeping creatures are helpless and can be killed in one round by unengaged opponents. Slapping or wounding awakens an affected creature, but normal noise does not. Sleep does not affect creatures that are already unconscious or undead, constructs, oozes, and other creatures that do not rest. 
+Dormir    Rango: 240'
+Arcano 1  Duración: 4d4 turnos
+El lanzador puede intentar sumir a criaturas en un sueño mágico. Todas las criaturas afectadas deben estar a la vista y dentro del alcance del conjuro. El lanzador puede elegir entre una criatura de 4+1 DG o menos y un grupo de 2d8 DG de criaturas de 4DG o menos. Si los enemigos tienen menos de 1 DG se considera que tienen 1 DG y aquellos con bonificador a los DG se cosideran con los dados base. Por ejemlo, un monstruo de 3+2 DG se calcularía como si tuviese 3 DG. Los dados de gole que no sean suficientes para afectar a una criatura se pierden. as criaturas con el menor número de HD son afectados primero. Las criaturas con mas de 4+1 DG no se ven afectadas.
+
+Las criaturas dormidas están indefensas y pueden ser asesinadas en un asalto por oponentes que no estén trabados. Las criaturas afectadas no se despiertan con un ruido normal pero sí lo hacen con un tortazo o una herida. Dormir no afecta a criaturas que ya están inconscientes, constructos, no muertos, limos o las criaturas que no descansen.﻿ 
 
 Smite Undead*	Range: 	240’ (touch)
 Divine 4	Duration:	special
